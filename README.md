@@ -125,7 +125,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
-* [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [CrateDB](https://cratedb.com/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
